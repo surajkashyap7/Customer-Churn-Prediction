@@ -8,6 +8,3 @@ For example, if you start your quarter with 400 customers and end with 380, your
 
 ## What is customer retention examples?
 One of the most common customer retention examples is rewarding consumers. Rewards programs encourage customers to return by giving them discounts, exclusive access, or special offers.
-
-
-[Telecom Retention - Business Understanding.pdf](https://github.com/surajkashyap7/Customer-Churn-Prediction/files/6864665/Telecom.Retention.-.Business.Understanding.pdf)
