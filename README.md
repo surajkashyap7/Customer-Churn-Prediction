@@ -10,6 +10,5 @@ For example, if you start your quarter with 400 customers and end with 380, your
 One of the most common customer retention examples is rewarding consumers. Rewards programs encourage customers to return by giving them discounts, exclusive access, or special offers.
 
 
-![CustomerChurn](https://user-images.githubusercontent.com/69102843/126696254-a2275406-92af-44bd-b2c9-37a09027bff3.png)
 
 ![Telecom_Customer_Churn_Prediction_Models](https://user-images.githubusercontent.com/69102843/126696276-1d1b4a0f-9bb8-40f5-a663-3ca67484ad85.jpg)
